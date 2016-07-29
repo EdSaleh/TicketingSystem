@@ -1,0 +1,6 @@
+ExpensiveEvent      SellerUser   003 050.00
+EventName01         SellerUser   009 002.00
+RareEvent           SellerUser   001 001.00
+WickedCrazyParty    admin        000 002.00
+BreakingTheRule     Yoda         005 100.00
+END                                             

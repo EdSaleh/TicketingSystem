@@ -1,0 +1,10 @@
+abcdefghijklmn FS 00000000.00
+Jim            SS 00000000.00
+admin          AA 00000000.00
+BuyerUser      BS 00000454.04
+SellerUser     SS 00000457.04
+UserName999    FS 00000035.00
+UserName998    FS 00000034.00
+UserName997    FS 00000012.00
+UserName996    FS 00000033.40
+END                            
